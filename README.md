@@ -2,7 +2,7 @@
 
 Just a pet project, poor feature no GUI. This using java awt to drawing buffer image frame by frame so it very weird FPS, anyway I just make it for fun.
 
-*You will get VAC Ban immediately without -insecure flag at steam launch property because it still using Windows API to read another process memory(via JNA),*
+*You will get VAC Ban immediately without -insecure flag at steam launch property because it still using Windows API to read another process memory(via JNA).*
 
 > ->**never cheating in any multiplayer game :)** 
 
