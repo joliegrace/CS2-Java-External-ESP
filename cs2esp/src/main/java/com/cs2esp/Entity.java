@@ -67,5 +67,4 @@ public class Entity {
     public void setPosition(Vector3 position) {
         this.position = position;
     }
-
 }

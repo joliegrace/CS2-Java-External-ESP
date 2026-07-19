@@ -14,5 +14,4 @@ public class Utils {
         float screenY = (screenHeight / 2f) - (y * screenHeight / 2f);
         return new Vector3(screenX, screenY, 0);
     }
-    
 }
